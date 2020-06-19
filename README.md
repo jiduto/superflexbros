@@ -39,7 +39,7 @@ __Eric Bernier__
 - The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie, the commissioner will always have the tiebreaking vote. If the commissioner is involved in a dispute it is up to the league to settle matters accordingly. 
 
 ### League Theme ###
-The name of the league is Super Flex Bros. It is a reference to the Super Smash Bros. video game series. To participate in the league you must name your team something video game themed. 
+The name of the league is Super Flex Bros. It is a reference to the popular Nintendo franchise "Super Smash Bros." To participate in the league you must name your team something Nintendo themed. 
 
 ### Rule Changes ###
 #### Nomination ####
