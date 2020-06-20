@@ -67,9 +67,9 @@ Tanking is not tolerated. Trading players away so that your roster is objectivel
 If a team does not pay their dues by the designated payment date then they are not eligible to participate in the draft (startup or rookie). It will be the commissioner's decision on whether or not to grant an extension.
 
 ## __Section III - Payout__ ##
-- 1st Place: $200 (8 buy-ins)
-- 2nd Place: $75 (3 buy-ins)
-- 3rd Place: $25 (1 buy-in)
+- 1st Place: $180 (6 buy-ins)
+- 2nd Place: $90 (3 buy-ins)
+- 3rd Place: $30 (1 buy-in)
 
 ## __Section IV - Rosters__ ##
 
@@ -173,7 +173,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       </tr>
       <tr>
         <td>Receiving</td>
-        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>40+ yard RETD<br>TE Reception Bonus</td>
+        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>40+ yard RETD</td>
         <td>0.1<br>6<br>2<br>1</td>
       </tr>
       <tr>
